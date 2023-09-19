@@ -1,0 +1,44 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  
+  /* Style for the h1 element */
+  h1 {
+    color: #5cda58;
+  }
+  
+  /* Style for the strong element (contact labels) */
+  strong {
+    font-weight: bold;
+    
+  }
+  
+  /* Style for the ul element (unordered list) */
+  ul {
+    list-style-type: square;
+    padding: 0;
+  }
+  
+  /* Style for the li element (list items) */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the a element (links) */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Style for the a element on hover (links) */
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .cname{
+    color: #420308;
+  }
+ 

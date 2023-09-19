@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Certifications</title>
+</head>
+<body>
+  <h1>Certifications</h1>
+  
+  <ul>
+    <li>
+      <strong> bootcamp</strong>
+      <br>
+      Issuing Organization: Udemy
+      <br>
+      Description:The data science course 2023:Complete data science bootcamp
+    </li>
+    <li>
+      <strong>Certificate of intenship</strong>
+      <br>
+      Issuing Organization: Exposys Data lab
+      <br>
+      Description:Data Science Science  
+    </li>
+    <li>
+      <strong>Emotional Intelligence Certification</strong>
+      <br>
+      Issuing Organization: LinkedIn
+      <br>
+      Description: developing your Emotional Certificate.
+    </br>
+    <img src="eq linked in.jpg">
+    </li>
+    <li>
+      <strong>Born to Manifests Skills/strong>
+      <br>
+      Issuing Organization: N'kisi Institute of Technology
+      <br>
+      Description: Workshop on Emotional Intelligence
+    </li>
+    <li>
+      <strong>LinkedIn - Learning Java</strong>
+      <br>
+      Issuing Organization: Linked In
+      <br>
+      Description: Lerning Java
+    </li>
+    <li>
+      <strong>Linkedin  cyber security Certification</strong>
+      <br>
+      Issuing Organization: Lumos Learning
+      <br>
+      Description: Online Cyber Security Awareness
+    </li>
+    <li>
+      <strong>Other college Presentation</strong>
+      <br>
+      College Name: Dhiragilal Gandhi Institute of Technology
+      <br>
+      Description: Participated in paper presentation on the Domain of IOT.
+    </li>
+    <li>
+      
+      College Name: Sona College of Technology
+      <br>
+      Description:Participated in Paper Presentation on the domain of Neural networks.
+    </li>
+  </ul>
+</body>
+</html>
+
